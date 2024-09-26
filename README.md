@@ -1,3 +1,9 @@
+<source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      />
+      <source
+
 <h1 align="center">Hi 👋, I'm 0xenesZ</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
