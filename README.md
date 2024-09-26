@@ -1,8 +1,26 @@
-<source
+<div align="center">
+  <div align="center">
+    <picture>
+      <source
         media="(prefers-color-scheme: dark)"
         srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
       />
       <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+      <img
+        alt="github contribution grid snake animation"
+        src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      />
+  </picture>
+  </div>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=0xenesZ&label=Profile%20Visits&style=for-the-badge" />
+  <br>
+  <a href="https://t.me/itadakimasu31">
+    <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm 0xenesZ</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
